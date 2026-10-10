@@ -13,7 +13,12 @@
             // وكمان نقدر نطبق عليها جميع الpillars بتاعت الoop
             // ده  معناه ان  الكود محمي ومنظم وقابل لاي تطوير مستقبلي 
             #endregion
-
+            #region part1 q2
+            //a/ the parent is class shipment;
+            //b/the child class ExpresShipment;
+            //c/public string TrackingCode { get; set; }  ده الموروث من shipment
+            //d/بنقلل التكرار وبنخلي الكود مبني على منطق صحيح ومنظم وقابل للتطوير
+            #endregion
         }
     }
 }
